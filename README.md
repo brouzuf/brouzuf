@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brouzuf
-- 🌱 I’m currently learning Python/Django framwork
+- 🌱 I’m currently learning Python/Django framework
 
 Driver of shunting and local lines at the SNCF on the Nice site since July 2006, I had the idea in December 2019, during the reorganization of the TGV fleet management service and with the announcement of the need to change the missions of the drivers, to develop a computer tool to facilitate the feedback of field information.
 The need being present, the tool has evolved a lot and today, it manages the reuse of TGV trains in pre-operational and operational mode, the creation of layouts (car numbers) and the feedback from the drivers on the state of the trains, all in real time.
