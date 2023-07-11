@@ -9,7 +9,7 @@ Driver of shunting and local lines at the SNCF on the Nice site since July 2006,
 * 🖥️  See my portfolio at [My Portfolio](https://brouzuf.tk)* 
 * ✉️  You can contact me at [brouzuf@gmail.com](mailto:brouzuf@gmail.com)* 🚀  
 * I'm currently working on [Ma'iti](https://maiti.brouzuf.tk)* 
-* 🧠  I'm learning Django REST framework
+* 🧠  I'm learning Django framework
 
 ### Skills
 
