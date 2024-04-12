@@ -16,7 +16,7 @@ More recently, at the request of the Marseille management department, I develope
 * 🌍  I'm based in Québec* 
 * 🖥️  See my portfolio at [My Portfolio](https://brouzuf.tk)* 
 * ✉️  You can contact me at [brouzuf@gmail.com](mailto:brouzuf@gmail.com)* 🚀  
-* I'm currently working on [Ma'iti](https://maiti.brouzuf.tk)* 
+* I'm currently working on [Ohipa](https://ohipa.brouzuf.tk)* 
 * 🧠  I'm learning Django framework
 
 ### Skills
