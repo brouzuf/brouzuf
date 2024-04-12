@@ -14,9 +14,9 @@ I enjoyed developing my tool independently and self-taught because, starting fro
 More recently, at the request of the Marseille management department, I developed a digital report book. It allows the transmission of instructions between the managers, to notify by email of any events that would appear during their day of service and allows the supervision of the tasks that are incumbent on them. Because of the different requests I have received, I think there is an important need to support the digitalization of the business.
 
 * 🌍  I'm based in Québec* 
-* 🖥️  See my portfolio at [My Portfolio](https://brouzuf.tk)* 
-* ✉️  You can contact me at [brouzuf@gmail.com](mailto:brouzuf@gmail.com)* 🚀  
-* I'm currently working on [Ohipa](https://ohipa.brouzuf.tk)* 
+* 🖥️  See my portfolio at [My Portfolio](https://brouzuf.tk) 
+* ✉️  You can contact me at [brouzuf@gmail.com](mailto:brouzuf@gmail.com) 🚀  
+* I'm currently working on [Ohipa](https://ohipa.brouzuf.tk) 
 * 🧠  I'm learning Django framework
 
 ### Skills
