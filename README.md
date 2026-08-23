@@ -1,7 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sylvain Prado
 =====================================================================================================================================
-FullStack autodidacte Developper PHP/Python
+FullStack autodidacte Developper Django/Python
 -------------------------------------------
+
+I have had a keen interest in all things IT since childhood. I spent my teenage years taking computers apart and putting them back together, while also teaching myself how to maintain the computers belonging to my family and friends. However, my educational path did not lead to a career in IT.
+
+Then, in 2006, I began a career as a train driver in France, all the while continuing to help those around me and nurture my passion for IT.
 
 Driver of local lines at the SNCF on the Nice site since July 2006, I had the idea in December 2019, during the reorganization of the TGV fleet management service and with the announcement of the need to change the missions of the drivers, to develop a computer tool to facilitate the feedback of field information. 
 
@@ -11,7 +15,11 @@ After the appropriate training, the tool has been in operational use since mid-M
 
 I enjoyed developing my tool independently and self-taught because, starting from scratch, I was able to identify the irritants of the agents and meet their needs. While facilitating their daily life and increasing productivity, their recognition is a great satisfaction. Since March 2021, the tool provides internal statistics to animate a visual management and a digitalized abandoned object procedure, thanks to an extension available on the smartphones of the operators of Nice station. 
 
-More recently, at the request of the Marseille management department, I developed a digital report book. It allows the transmission of instructions between the managers, to notify by email of any events that would appear during their day of service and allows the supervision of the tasks that are incumbent on them. Because of the different requests I have received, I think there is an important need to support the digitalization of the business.
+I explored educational opportunities in the sector and discovered that vocational training programs available in Quebec aligned perfectly with my goal of a career change.
+
+After successfully completing my studies—which included two internships—I gained hands-on experience in Quebec working with operating systems such as MS Windows (versions 7 through 11), MS Windows Server (2016 through 2023), iOS, and Android, as well as GNU/Linux (primarily Ubuntu Server and Debian). I began my professional career in Quebec as an IT Technician at Huwiz, where I was able to apply the knowledge I had gained through self-study regarding production-grade application containerization in a professional setting. My work involved container orchestration, inventory management, web-based project management and ticketing applications, and online file format conversion—and, more recently, generative AI and automation—all self-hosted either locally or in the cloud.
+
+Today, I am a recent graduate, yet I possess solid experience in the IT field!
 
 * 🌍  I'm based in Québec* 
 * 🖥️  See my portfolio at [My Portfolio](https://brouzuf.tk) 
