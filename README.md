@@ -22,10 +22,9 @@ After successfully completing my studies—which included two internships—I ga
 Today, I am a recent graduate, yet I possess solid experience in the IT field!
 
 * 🌍  I'm based in Québec* 
-* 🖥️  See my portfolio at [My Portfolio](https://brouzuf.tk) 
+* 🖥️  See my portfolio at [My Portfolio](https://brouzuf.com) 
 * ✉️  You can contact me at [brouzuf@gmail.com](mailto:brouzuf@gmail.com) 🚀  
-* I'm currently working on [TaleSound](https://talesound.brouzuf.tk) 
-* 🧠  I'm learning Django framework
+* I'm currently working on [TaleSound](https://talesound.brouzuf.com) and [Mo'a²](https://moa2.brouzuf.com) 
 
 ### Skills
 
